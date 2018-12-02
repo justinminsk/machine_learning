@@ -1,0 +1,22 @@
+2018-12-01 15:36:24,927 -  
+2018-12-01 15:36:24,928 - -----------------------
+2018-12-01 15:36:24,928 - New Model
+2018-12-01 15:36:24,928 - -----------------------
+2018-12-01 15:36:24,928 -  
+2018-12-01 15:36:25,898 - Data Imported
+2018-12-01 15:36:26,422 - Dropped NULL
+2018-12-01 15:36:27,183 - Data Removed of Strings
+2018-12-01 15:36:27,690 - Train Test Split
+2018-12-01 15:44:21,623 - Random Forest Grid Search:
+2018-12-01 15:44:21,623 - RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=4, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=8, n_jobs=1,
+            oob_score=False, random_state=1, verbose=0, warm_start=False)
+2018-12-01 15:45:21,832 - Decision Tree Grid Search:
+2018-12-01 15:45:21,832 - DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=9,
+            max_features=5, max_leaf_nodes=None, min_impurity_decrease=0.0,
+            min_impurity_split=None, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=1, splitter='best')

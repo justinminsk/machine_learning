@@ -1,0 +1,1 @@
+Attached are the two files to run the cross-validation testing (RNN_DNN.py) and run the final model (model.py). The two text files contain the cross-validation testing results (RNN_DNN_Results.txt) and the model results (model.txt) with an accuracy of 26.42%. 

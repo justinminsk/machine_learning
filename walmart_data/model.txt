@@ -1,0 +1,28 @@
+2018-12-01 08:27:28,602 -  
+2018-12-01 08:27:28,602 - -----------------------
+2018-12-01 08:27:28,603 - New Model
+2018-12-01 08:27:28,603 - -----------------------
+2018-12-01 08:27:28,603 -  
+2018-12-01 08:28:43,487 - 0	Validation loss: 2.820073	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:29:46,162 - 1	Validation loss: 2.836706	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:30:42,504 - 2	Validation loss: 2.828730	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:31:38,469 - 3	Validation loss: 2.829511	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:32:59,696 - 4	Validation loss: 2.837200	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:34:19,499 - 5	Validation loss: 2.821395	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:35:49,293 - 6	Validation loss: 2.831321	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:37:02,802 - 7	Validation loss: 2.828816	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:38:09,581 - 8	Validation loss: 2.821074	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:39:24,082 - 9	Validation loss: 2.822802	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:40:40,507 - 10	Validation loss: 2.822491	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:41:48,887 - 11	Validation loss: 2.831554	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:43:02,228 - 12	Validation loss: 2.839868	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:44:16,688 - 13	Validation loss: 2.834878	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:45:26,881 - 14	Validation loss: 2.835005	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:46:31,383 - 15	Validation loss: 2.864480	Best loss: 2.820073	Accuracy: 14.85%
+2018-12-01 08:47:36,700 - 16	Validation loss: 2.838670	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:48:35,890 - 17	Validation loss: 2.827063	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:49:35,860 - 18	Validation loss: 2.832923	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:50:33,991 - 19	Validation loss: 2.837840	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:51:31,850 - 20	Validation loss: 2.832302	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:52:34,382 - 21	Validation loss: 2.828079	Best loss: 2.820073	Accuracy: 26.42%
+2018-12-01 08:52:34,383 - Early stopping!
